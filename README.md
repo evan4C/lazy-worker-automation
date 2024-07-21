@@ -1,4 +1,4 @@
-We are lazy, we need to automation!
+We are lazy, we need automation!
 
 Currently support:
 1. sit position reminder 

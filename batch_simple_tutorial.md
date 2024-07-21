@@ -1,9 +1,6 @@
-Time reminder V1.0
+How to create a batch file for automation in Windows OS
 
-Author: Fan Li
-Date: 2022/11/21
-
-1. create bat file
+1. create a bat file
 
 2. open task scheduler
 taskschd.msc
